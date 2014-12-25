@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Germanmunoz.net]]></title>
-  <link href="http://germanmunoz.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Tech | Germanmunoz.net]]></title>
+  <link href="http://germanmunoz.github.io/blog/categories/tech/atom.xml" rel="self"/>
   <link href="http://germanmunoz.github.io/"/>
   <updated>2014-12-25T17:29:04+00:00</updated>
   <id>http://germanmunoz.github.io/</id>
